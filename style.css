@@ -1,0 +1,19 @@
+body{
+	background-image: url("images/tweed.png");
+	
+	
+	
+}
+
+
+
+.jumbotron{
+	margin-top: 20px;
+	background-image: url("images/train.jpg");
+	background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+	
+}
